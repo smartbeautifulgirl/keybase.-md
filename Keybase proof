@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am smartbeautifulgirl on github.
+  * I am kayfish (https://keybase.io/kayfish) on keybase.
+  * I have a public key ASCR4IWls_lojEsxpAi_wh3Vu08-Jceju-8p_1W535CpNwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012091e085a5b3f9688c4b31a408bfc21dd5bb4f3e25c7a3bbef29ff55b9df90a9370a",
+      "host": "keybase.io",
+      "kid": "012091e085a5b3f9688c4b31a408bfc21dd5bb4f3e25c7a3bbef29ff55b9df90a9370a",
+      "uid": "31650bd4cd8b26967ca1e4733d180319",
+      "username": "kayfish"
+    },
+    "merkle_root": {
+      "ctime": 1568075835,
+      "hash": "05262d6b818f0b0fdc0b34c3cb08857b31f346bdc0dba75fa398be0a7f349a72d5cf1faccba7ea43bf478ce4d1391a29efbaee1aa7ccc893898d148adf5e3db3",
+      "hash_meta": "ee57aa9d6f427476553512a3fc713bcf4cd51468e016b9e07759b7bce6355e2c",
+      "seqno": 6278757
+    },
+    "service": {
+      "entropy": "oKH9hcUxqUkLsCOkK/u2ix+i",
+      "name": "github",
+      "username": "smartbeautifulgirl"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568075856,
+  "expire_in": 504576000,
+  "prev": "2e1863ff01079db01cac8705694b3378481b6d629ed04c9a8c21471a7f735fe0",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASCR4IWls_lojEsxpAi_wh3Vu08-Jceju-8p_1W535CpNwo](https://keybase.io/kayfish), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkeCFpbP5aIxLMaQIv8Id1btPPiXHo7vvKf9Vud+QqTcKp3BheWxvYWTESpcCDcQgLhhj/wEHnbAcrIcFaUszeEgbbWKe0EyajCFHGn9zX+DEIKWoW8aDLFuw66xJdBiKQHH2wIbSy1dwxhqwQKetKzMhAgHCo3NpZ8RAh9kwa4h1OaMS5al57Ri04Ognu04HuiCaUwBe9C1rw9KEx5sj8v9PxHM/GXksJGie5c8OH9zM91w+PkOw/QwHDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINguIL8idnQ6Kxw+mMuKY4lNoDv0In1/79U2F2Y6IE0Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/kayfish
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id kayfish
+```
